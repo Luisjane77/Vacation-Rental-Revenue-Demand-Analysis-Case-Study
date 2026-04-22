@@ -66,6 +66,18 @@ The most important outputs of this case study are:
 - [Predictive Modeling Notebook](04_predictive_modeling/predictive_modeling_regression_random_forest.ipynb)
 - [Clustering Dashboard](05_dashboards/clustering_dashboard)
 - [Executive Summary PDF](07_executive_summary/vacation_rental_case_study_executive_summary.pdf)
+
+  ## Project Preview
+
+### Clustering Dashboard
+![Clustering Dashboard](assets/clustering_dashboard_main.png)
+
+### Exploratory Analysis Preview
+![Exploratory Analysis Preview](assets/exploratory_analysis_preview.png)
+
+### Predictive Modeling Preview
+![Predictive Modeling Preview](assets/predictive_modeling_preview.png)
+
 ---
 
 ## Repository Structure
