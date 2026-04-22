@@ -10,7 +10,7 @@ This repository can be reviewed from two different perspectives:
 Start with the Executive Summary PDF to understand the business context, project scope, and key takeaways.
 
 Recommended file:
-- [Executive Summary PDF](07_executive_summary/vacational_renting_report.pdf)
+- [Executive Summary PDF](07_executive_summary/vacation_rental_case_study_executive_summary.pdf)
 
 ### For Technical or Analytical Review
 Explore the project through its analytical components:
@@ -19,9 +19,9 @@ Explore the project through its analytical components:
 - Predictive modeling notebook
 
 Recommended files:
-- [Exploratory Analysis Notebook](02_exploratory_analysis/Untitled2.ipynb)
-- [Predictive Modeling Notebook](04_predictive_modeling/PROYECTO%20(1).ipynb)
-- [Clustering Dashboard](05_dashboards/Clustering)
+- [Exploratory Analysis Notebook](02_exploratory_analysis/exploratory_analysis_vacation_rentals.ipynb)
+- [Predictive Modeling Notebook](04_predictive_modeling/predictive_modeling_regression_random_forest.ipynb)
+- [Clustering Dashboard](05_dashboards/clustering_dashboard)
   
 This project presents an integrated case study on vacation rental performance, demand behavior, customer segmentation, and predictive analysis. It brings together exploratory analysis, dashboard-based insights, and machine learning workflows to understand how customer behavior and rental patterns can support stronger commercial and revenue-related decisions.
 
