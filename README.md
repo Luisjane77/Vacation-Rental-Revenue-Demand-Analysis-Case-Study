@@ -48,6 +48,24 @@ The main objectives of this case study are:
 - Use predictive modeling techniques to extract actionable insights
 - Support stronger commercial and revenue-related decision-making through data
 
+## Project Components
+
+This case study combines three main analytical components:
+
+- **Exploratory analysis** of vacation rental activity and customer behavior
+- **Segmentation-focused dashboard outputs** to support profile-based interpretation
+- **Predictive modeling** using regression and Random Forest techniques
+
+Together, these components are organized as a single business-oriented case study rather than as separate analytical exercises.
+
+## Key Outputs
+
+The most important outputs of this case study are:
+
+- [Exploratory Analysis Notebook](02_exploratory_analysis/exploratory_analysis_vacation_rentals.ipynb)
+- [Predictive Modeling Notebook](04_predictive_modeling/predictive_modeling_regression_random_forest.ipynb)
+- [Clustering Dashboard](05_dashboards/clustering_dashboard)
+- [Executive Summary PDF](07_executive_summary/vacation_rental_case_study_executive_summary.pdf)
 ---
 
 ## Repository Structure
@@ -221,6 +239,11 @@ This integrated case study is based on the consolidation of the following analyt
 Together, these components create a broader and more coherent view of vacation rental analytics than they would as separate repositories.
 
 ---
+## Business Value
+
+This case study is designed to show how analytical work can be translated into practical business understanding in the vacation rental sector.
+
+Beyond technical modeling or dashboard creation, the project focuses on generating insights that can support stronger judgment around customer behavior, market performance, demand patterns, and revenue-related decision-making.
 
 ## Why This Project Matters
 
